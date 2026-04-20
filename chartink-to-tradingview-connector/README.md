@@ -1,4 +1,7 @@
 Chartink to TradingView Chrome Extension
+<img width="1216" height="537" alt="image" src="https://github.com/user-attachments/assets/f07e41c8-df01-4e4c-8722-38537f97dc17" />
+
+
 Installation and Usage Guide
 
 Chartink to TradingView Connector (Chrome Extension)
