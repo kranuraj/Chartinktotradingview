@@ -1,0 +1,11 @@
+.tv-link {
+    transition: transform 0.2s;
+}
+
+.tv-link:hover {
+    transform: scale(1.2);
+}
+
+.tv-link svg:hover {
+    color: #1976D2 !important;
+}

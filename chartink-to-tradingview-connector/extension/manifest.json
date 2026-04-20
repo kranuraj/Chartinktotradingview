@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Chartink to TradingView Connector",
+  "version": "1.0",
+  "description": "Adds TradingView chart links next to stock symbols on Chartink.com",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chartink.com/screener/*",
+        "https://chartink.com/dashboard/*",
+        "https://chartink.com/screener",
+        "https://chartink.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}

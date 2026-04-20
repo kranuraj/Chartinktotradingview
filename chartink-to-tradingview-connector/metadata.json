@@ -1,0 +1,6 @@
+{
+  "name": "Chartink to TradingView Connector",
+  "description": "Chrome extension that adds TradingView chart links to Chartink.com stock screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
